@@ -22,6 +22,15 @@
 		{
 			"Name": "OnlineServicesOSSAdapter",
 			"Enabled": true
+		},
+		{
+			"Name": "LordService",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows",
+		"Linux"
 	]
 }
