@@ -12,7 +12,7 @@ Develop branch is meant to be used by the Lord Service testers who do have acces
 > Lord Service Develop examples requires user to manually add the LordService plugin in the LordService-Examples/Plugins folder.
 
 > **Warning**
-> Lord Service Develop examples ALWAYS requires the most recent version of Lord Service!
+> Lord Service Develop examples ALWAYS requires the most recent DEVELOPMENT version of Lord Service!
 
 
 
