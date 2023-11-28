@@ -25,7 +25,8 @@
 		},
 		{
 			"Name": "LordService",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3a6c1ff570cd4a6f8b2d11e0524fee4f"
 		}
 	],
 	"TargetPlatforms": [

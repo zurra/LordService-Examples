@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Plugins/LordService*
 .idea
+Plugins/CopyLordService.ps1
