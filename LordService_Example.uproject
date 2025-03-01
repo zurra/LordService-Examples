@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -12,7 +12,16 @@
 	],
 	"Plugins": [
 		{
-			"Name": "OnlineServicesEOSGS",
+			"Name": "LordService",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3a6c1ff570cd4a6f8b2d11e0524fee4f"
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamSockets",
 			"Enabled": true
 		},
 		{
@@ -20,13 +29,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineServicesOSSAdapter",
+			"Name": "OnlineServicesEOSGS",
 			"Enabled": true
-		},
-		{
-			"Name": "LordService",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3a6c1ff570cd4a6f8b2d11e0524fee4f"
 		}
 	],
 	"TargetPlatforms": [
